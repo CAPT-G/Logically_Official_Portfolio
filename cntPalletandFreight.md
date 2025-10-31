@@ -3,8 +3,8 @@
 
 ### Full Digital Rebrand, SEO Infrastructure & Marketing Optimization
 
-**Project Lead:** ## Capt-G
----
+### **Project Lead:** Capt-G
+--- 
 
 ## 🏗️ **Project Overview**
 
