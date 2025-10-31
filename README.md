@@ -1,15 +1,12 @@
-## Logically_Incorporated
-# Official_Portfolio
-**Project summary showcasing the entire scope of each project's details.**
-
+## Logically Incorporated | Official Portfolio 
+**by: Jacob Bishop aka Captain-G Founder & CEO | Software Architect | Lead Developer | Project Manager**
+# Website Development
 # 🚛 **C&T Pallet and Freight Services**
 **Project Summary Report: Rebranding, website development and design, SEO infrastructure, and digital optimization completed for C&T Pallet and Freight Services.**
 
 ### Full Digital Rebrand, SEO Infrastructure & Marketing Optimization
 
-**Project Lead:** [Your Name / Company Name]
-**Date:** [Insert Date]
-
+**Project Lead:** ##Capt-G
 ---
 
 ## 🏗️ **Project Overview**
